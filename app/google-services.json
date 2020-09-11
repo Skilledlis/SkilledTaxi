@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80030901101",
+    "firebase_url": "https://skilledtaxi.firebaseio.com",
+    "project_id": "skilledtaxi",
+    "storage_bucket": "skilledtaxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80030901101:android:d7e512ea3f41d2062eb064",
+        "android_client_info": {
+          "package_name": "com.example.skilledtaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80030901101-g3keoeh4bpspfoldetr16viv6g30na1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxmX0DtTffc9-UeOYpp2zpRVlxntObtgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80030901101-g3keoeh4bpspfoldetr16viv6g30na1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

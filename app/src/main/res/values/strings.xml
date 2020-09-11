@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SkilledTaxi</string>
+    <string name="customerBntText">Вызвать такси</string>
+    <string name="driverBntText">Стать водителем</string>
+    <string name="sing_in">Sing In</string>
+    <string name="password">Password</string>
+    <string name="email">ivanov@mail.ru</string>
+    <string name="want_to_register">want to register?</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="driver_entrance">Вход для водителя</string>
+    <string name="enter_customer">Вход для пользователя</string>
+</resources>
